@@ -1,0 +1,48 @@
+15:42:30.302 [main] INFO  testcases.TC001_Home_Page - ******Printed the next value******
+15:42:30.745 [main] INFO  testcases.TC001_Home_Page - ******Clicking Show more******
+15:42:31.080 [main] INFO  testcases.TC001_Home_Page - ******Show more is clicked******
+15:42:31.792 [main] INFO  testcases.TC001_Home_Page - ******Printing languages and their count******
+15:42:34.960 [main] INFO  testcases.TC001_Home_Page - ******Printed the details******
+15:42:35.235 [main] INFO  testcases.TC001_Home_Page - ******Closing the language tab******
+15:42:35.331 [main] INFO  testcases.TC001_Home_Page - ******Closed******
+15:42:35.596 [main] INFO  testcases.TC001_Home_Page - ******Printing the levels and their counts******
+15:42:38.032 [main] INFO  testcases.TC001_Home_Page - ******Printed the details******
+15:42:38.376 [main] INFO  testcases.TC001_Home_Page - ******Clicking Coursera******
+15:42:44.233 [main] INFO  testcases.TC001_Home_Page - ******Clicked******
+15:42:44.614 [main] INFO  testcases.TC001_Home_Page - ******Clicking For Enterprise******
+15:42:54.048 [main] INFO  testcases.TC001_Home_Page - ******Clicked For Enterprise******
+15:42:54.679 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Down******
+15:42:54.730 [main] INFO  testcases.TC001_Home_Page - ******Scrolled Down******
+15:42:54.730 [main] INFO  testcases.TC001_Home_Page - ******Clicking For Enterprise******
+15:42:55.035 [main] INFO  testcases.TC001_Home_Page - ******For Enterprise is clicked******
+15:42:55.345 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Till End******
+15:42:55.362 [main] INFO  testcases.TC001_Home_Page - ******Scrolled Down******
+15:42:55.363 [main] INFO  testcases.TC001_Home_Page - ******Clicking What we office******
+15:42:58.940 [main] INFO  testcases.TC001_Home_Page - ******Clicked What we office******
+15:43:02.574 [main] INFO  testcases.TC001_Home_Page - ******Clicking Learn More******
+15:43:07.829 [main] INFO  testcases.TC001_Home_Page - ******Clicked Learn More******
+15:43:08.889 [main] INFO  testcases.TC001_Home_Page - ******Entering First Name******
+15:43:09.333 [main] INFO  testcases.TC001_Home_Page - ******First Name is entered******
+15:43:09.333 [main] INFO  testcases.TC001_Home_Page - ******Entering Last Name******
+15:43:09.692 [main] INFO  testcases.TC001_Home_Page - ******Last Name is entered******
+15:43:10.001 [main] INFO  testcases.TC001_Home_Page - ******Entering Email Id******
+15:43:10.300 [main] INFO  testcases.TC001_Home_Page - ******Email Id is entered******
+15:43:10.593 [main] INFO  testcases.TC001_Home_Page - ******Entering Phone Number******
+15:43:10.905 [main] INFO  testcases.TC001_Home_Page - ******Phone Number Entered******
+15:43:11.168 [main] INFO  testcases.TC001_Home_Page - ******Choosing Institution Type from the dropdown list******
+15:43:11.431 [main] INFO  testcases.TC001_Home_Page - ******Institution Type is choosen******
+15:43:11.431 [main] INFO  testcases.TC001_Home_Page - ******Entering Institution Name******
+15:43:11.729 [main] INFO  testcases.TC001_Home_Page - ******Entered******
+15:43:11.959 [main] INFO  testcases.TC001_Home_Page - ******Choosing Job Role from the dropdown list******
+15:43:12.257 [main] INFO  testcases.TC001_Home_Page - ******Job Role is choosen******
+15:43:12.509 [main] INFO  testcases.TC001_Home_Page - ******Choosing the department from the dropdown list******
+15:43:12.748 [main] INFO  testcases.TC001_Home_Page - ******Department is choosen******
+15:43:13.046 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Best Describes from the dropdown list******
+15:43:13.368 [main] INFO  testcases.TC001_Home_Page - ******Best Describes is choosen******
+15:43:13.648 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Country from the dropdown list******
+15:43:13.977 [main] INFO  testcases.TC001_Home_Page - ******Country is choosen******
+15:43:14.270 [main] INFO  testcases.TC001_Home_Page - ******Choosing the State from the dropdown list******
+15:43:14.505 [main] INFO  testcases.TC001_Home_Page - ******State is choosen******
+15:43:14.763 [main] INFO  testcases.TC001_Home_Page - ******Clicking the Submit Button******
+15:43:14.862 [main] INFO  testcases.TC001_Home_Page - ******Submit Button is clicked******
+15:43:15.369 [main] INFO  testcases.TC001_Home_Page - ******capturing error messsage******

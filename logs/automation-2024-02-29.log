@@ -1,0 +1,51 @@
+15:05:08.870 [main] INFO  testcases.TC001_Home_Page - ******Closing the language tab******
+15:05:08.933 [main] INFO  testcases.TC001_Home_Page - ******Printing the levels and their counts******
+15:05:08.985 [main] INFO  testcases.TC001_Home_Page - ******Clicking Coursera******
+15:05:09.036 [main] INFO  testcases.TC001_Home_Page - ******Clicking For Enterprise******
+15:05:09.090 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Down******
+15:05:09.118 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Till End******
+15:05:12.154 [main] INFO  testcases.TC001_Home_Page - ******Clicking Learn More******
+15:05:12.178 [main] INFO  testcases.TC001_Home_Page - ******Entering First Name******
+15:05:12.250 [main] INFO  testcases.TC001_Home_Page - ******Entering Email Id******
+15:05:12.316 [main] INFO  testcases.TC001_Home_Page - ******Entering Phone Number******
+15:05:12.384 [main] INFO  testcases.TC001_Home_Page - ******Choosing Institution Type from the dropdown list******
+15:05:12.408 [main] INFO  testcases.TC001_Home_Page - ******Choosing Job Role from the dropdown list******
+15:05:12.437 [main] INFO  testcases.TC001_Home_Page - ******Choosing the department from the dropdown list******
+15:05:12.461 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Best Describes from the dropdown list******
+15:05:12.493 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Country from the dropdown list******
+15:05:12.519 [main] INFO  testcases.TC001_Home_Page - ******Choosing the State from the dropdown list******
+15:05:12.564 [main] INFO  testcases.TC001_Home_Page - ******Clicking the Submit Button******
+15:05:12.598 [main] INFO  testcases.TC001_Home_Page - ******capturing error messsage******
+15:06:59.786 [main] INFO  testcases.TC001_Home_Page - ******Capturing searchWebdev******
+15:07:31.787 [main] INFO  testcases.TC001_Home_Page - ******Clicking both the check boxes******
+15:08:02.065 [main] INFO  testcases.TC001_Home_Page - ******Printing course name,rating and duration******
+15:08:32.537 [main] INFO  testcases.TC001_Home_Page - ******Clearing the search box and print next value******
+15:08:34.228 [main] INFO  testcases.TC001_Home_Page - ******Clicking Show more******
+15:08:34.753 [main] INFO  testcases.TC001_Home_Page - ******Printing languages and their count******
+15:08:34.795 [main] INFO  testcases.TC001_Home_Page - ******Closing the language tab******
+15:08:34.868 [main] INFO  testcases.TC001_Home_Page - ******Printing the levels and their counts******
+15:08:34.921 [main] INFO  testcases.TC001_Home_Page - ******Clicking Coursera******
+15:08:34.963 [main] INFO  testcases.TC001_Home_Page - ******Clicking For Enterprise******
+15:08:35.041 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Down******
+15:08:35.092 [main] INFO  testcases.TC001_Home_Page - ******Scrolling Till End******
+15:08:38.156 [main] INFO  testcases.TC001_Home_Page - ******Clicking Learn More******
+15:08:38.185 [main] INFO  testcases.TC001_Home_Page - ******Entering First Name******
+15:08:38.372 [main] INFO  testcases.TC001_Home_Page - ******Entering Email Id******
+15:08:38.519 [main] INFO  testcases.TC001_Home_Page - ******Entering Phone Number******
+15:08:38.681 [main] INFO  testcases.TC001_Home_Page - ******Choosing Institution Type from the dropdown list******
+15:08:38.733 [main] INFO  testcases.TC001_Home_Page - ******Choosing Job Role from the dropdown list******
+15:08:38.796 [main] INFO  testcases.TC001_Home_Page - ******Choosing the department from the dropdown list******
+15:08:38.827 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Best Describes from the dropdown list******
+15:08:38.880 [main] INFO  testcases.TC001_Home_Page - ******Choosing the Country from the dropdown list******
+15:08:38.924 [main] INFO  testcases.TC001_Home_Page - ******Choosing the State from the dropdown list******
+15:08:39.006 [main] INFO  testcases.TC001_Home_Page - ******Clicking the Submit Button******
+15:08:39.077 [main] INFO  testcases.TC001_Home_Page - ******capturing error messsage******
+15:42:02.144 [main] INFO  testcases.TC001_Home_Page - ******Capturing searchWebdev******
+15:42:08.940 [main] INFO  testcases.TC001_Home_Page - ******Captured searchWebdev******
+15:42:09.396 [main] INFO  testcases.TC001_Home_Page - ******Clicking both the check boxes******
+15:42:10.092 [main] INFO  testcases.TC001_Home_Page - ******Check boxes are clicked******
+15:42:10.449 [main] INFO  testcases.TC001_Home_Page - ******Printing course name,rating and duration******
+15:42:20.426 [main] INFO  testcases.TC001_Home_Page - ******Printed all the required details in course1******
+15:42:20.426 [main] INFO  testcases.TC001_Home_Page - ******Printing course name,rating and duration******
+15:42:28.215 [main] INFO  testcases.TC001_Home_Page - ******Printed all the required details in course2******
+15:42:28.717 [main] INFO  testcases.TC001_Home_Page - ******Clearing the search box and print next value******
